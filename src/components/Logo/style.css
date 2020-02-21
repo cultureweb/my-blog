@@ -2,8 +2,11 @@
 text-align: center;
 }
 .logo a{
-  font-family: 'Dancing Script';
+  font-family: 'Josefin Slab';
   font-size: 50px;
   text-decoration: none;
   color:#333
+}
+img{
+  margin: 0 auto;
 }

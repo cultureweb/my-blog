@@ -4,7 +4,8 @@ import './style.css';
 const Logo = props => {
   return (
     <div className="logo">
-      <a href="#" >Cédric Milius</a>
+      <img src={require('../../assets/icons/logo.png')}/>
+      <a href="#" >CultureWeb</a>
     </div>
   )
 }
