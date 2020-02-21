@@ -14,3 +14,13 @@ INIT PROJECT
 - Add CHANGELOG 
 - Add Google Font Oswald 300,400,500
 - Add Folders and SubFolders & Files Structure
+
+## [0.1.1] - 2020-02-21
+
+### ADD
+
+HEADER
+
+- Add Header
+- Add nav
+- Add social Media Link : work in progress
