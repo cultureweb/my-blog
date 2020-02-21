@@ -24,3 +24,13 @@ HEADER
 - Add Header
 - Add nav
 - Add social Media Link : work in progress
+
+## [0.1.2] - 2020-02-21
+
+### ADD
+
+CARD
+
+- Add Logo
+- Add UI / Card
+- Add Google Font Dancing 400,500
