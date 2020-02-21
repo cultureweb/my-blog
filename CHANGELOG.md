@@ -5,15 +5,25 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.1.0] - 2020-02-21
+## [0.1.3] - 2020-02-21
 
 ### ADD
 
-INIT PROJECT
+CARD
 
-- Add CHANGELOG 
-- Add Google Font Oswald 300,400,500
-- Add Folders and SubFolders & Files Structure
+- Add Logo image
+- Add Navbar
+- Add SearchBar
+
+## [0.1.2] - 2020-02-21
+
+### ADD
+
+CARD
+
+- Add Logo
+- Add UI / Card
+- Add Google Font Josefin+Slab 400,500
 
 ## [0.1.1] - 2020-02-21
 
@@ -25,12 +35,12 @@ HEADER
 - Add nav
 - Add social Media Link : work in progress
 
-## [0.1.2] - 2020-02-21
+## [0.1.0] - 2020-02-21
 
 ### ADD
 
-CARD
+INIT PROJECT
 
-- Add Logo
-- Add UI / Card
-- Add Google Font Dancing 400,500
+- Add CHANGELOG 
+- Add Google Font Oswald 300,400,500
+- Add Folders and SubFolders & Files Structure
