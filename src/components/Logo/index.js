@@ -3,9 +3,13 @@ import './style.css';
 
 const Logo = props => {
   return (
-    <div className="logo">
-      <img src={require('../../assets/icons/logo.png')}/>
-      <a href="#" >CultureWeb</a>
+    <div>
+      <div className="center">
+        <img src={require('../../assets/icons/image.png')}/>
+      </div>
+      <p className="logo">
+          <a href="#" >CultureWeb</a>
+      </p>
     </div>
   )
 }
