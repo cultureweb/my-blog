@@ -35,7 +35,7 @@ useEffect(()=>{
                     <span className="postedBy">posted on {post.postedOn} by {post.author} Blogging tips</span>
                 </div>
                 <div className="postImageContainer">
-                    <img src={post.blogImage ? require(`../../blogPostImages/${post.blogImage}`) : null} alt="Post Image"/>
+                    <img src={post && post.blogImage ? require(`../../blogPostImages/${post.blogImage}`) : null} alt="Post Image"/>
                 </div>
                 <div className="postContent">
                     <h3>{post.blogTitle}</h3>
